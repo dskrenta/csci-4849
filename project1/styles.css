@@ -3,18 +3,18 @@ body {
 }
 
 .header {
-  font-size: 80px;
+  font-size: 6vw;
 }
 
 .container {
   margin: auto;
-  width: 50%;
+  width: 100vw;
   padding: 10px;
   text-align: center;
 }
 
 .input {
-  width: 300px;
+  width: 25vw;
   height: 20px;
 }
 
@@ -23,6 +23,6 @@ body {
 }
 
 .result {
-  padding-top: 50px;
-  font-size: 50px;
+  padding-top: 5vh;
+  font-size: 6vw;
 }
